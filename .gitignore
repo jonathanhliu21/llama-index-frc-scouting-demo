@@ -1,0 +1,5 @@
+private/
+.venv/
+storage_*/
+data/
+.DS_Store

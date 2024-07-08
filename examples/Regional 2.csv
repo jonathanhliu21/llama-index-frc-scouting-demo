@@ -1,0 +1,448 @@
+match number,team number,How many did they score in the amp?,How many missed amp shots?,How many did they score in the speaker?,How many speaker shots did they miss?,Did they access the middle of the field?,Did they exit their area?,How many notes did the robot score in the amp?,How many missed amp shots?,How many notes did the robot score in the speaker?,How many missed speaker shots?,How long was their average cycle?,How much time did they spend on defense?,How much time did they spend dead/broken?,Where was the robot at the end of the match?,Did they trap?,What type of robot are they?,Where did they mostly shoot from?,Additional Comments
+36,78984,0,0,4,0,Yes,Yes,4,0,6,0,8,4,0,Parked,No,Offense (both places),Open field (next to stage),
+38,224640,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+38,218160,0,0,1,0,No,Yes,0,0,5,0,22,0,0,Parked,No,Speaker,Right next to speaker,
+36,132168,0,1,0,0,No,Yes,0,0,4,3,15,0,0,Parked,No,Speaker,Right next to speaker,
+37,234528,0,0,0,1,No,No,0,0,1,1,26,0,0,Parked,No,Speaker,Right next to speaker,
+37,46488,0,0,1,0,No,No,0,0,6,1,16,0,0,Successful climb,No,Speaker,Right next to speaker,
+38,219840,0,0,2,1,No,Yes,0,0,5,0,27,0,0,Parked,No,Speaker,Right next to speaker,
+38,218160,0,0,1,0,No,Yes,0,0,5,0,15,7,0,Successful climb,No,Speaker,Open field (next to stage),The driver was not that good and kept driving around to weird places or having to spin around
+38,220416,0,0,0,0,No,No,0,0,0,0,20,0,0,Parked,No,Speaker,Right next to speaker,
+39,10680,0,0,1,0,No,No,0,0,2,0,17,0,0,Failed climb,No,Speaker,Right next to speaker,
+39,3840,0,0,2,1,Yes,Yes,4,0,4,2,5,0,0,Successful climb,No,Offense (both places),Open field (next to stage),Missed a bunch of speaker shots and intake struggled to pick up a note
+41,113856,0,0,0,0,No,No,5,0,2,1,18,0,0,Successful climb,Yes,Offense (both places),Right next to speaker,
+41,143496,0,0,0,1,No,No,2,0,4,0,27,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+41,227616,0,0,0,0,No,No,0,0,1,0,0,65,0,Parked,No,Speaker,Right next to speaker,tried to source intake and then kinda did nothing
+41,132168,0,0,0,0,No,No,2,0,0,0,15,0,0,Somewhere else,No,Amp,Can’t shoot,got stuck in the other team’s stage for like 40 seconds
+42,153840,0,0,3,1,No,No,0,0,6,3,17,0,8,Parked,No,Speaker,Right next to speaker,
+42,21408,0,0,1,0,No,No,2,0,1,0,0,0,0,Successful climb,No,Offense (both places),Amp,got a note stuck in the robot
+43,78984,0,0,2,0,Yes,Yes,3,0,3,1,18,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+44,190584,0,0,2,0,No,Yes,0,0,3,2,0,0,0,Successful climb,No,Speaker,Right next to speaker,
+44,153696,0,0,2,0,No,Yes,0,0,4,1,31,40,0,Successful climb,No,Speaker,Right next to speaker,quick climb
+44,10680,0,0,0,0,No,No,2,0,2,0,22,29,0,Failed climb,No,Equal amounts offensive and defensive,Amp,
+45,206208,0,0,0,1,No,Yes,2,0,0,0,33,0,0,Parked,No,Offense (both places),Right next to speaker,
+46,63360,0,0,0,0,No,No,3,0,0,0,22,0,0,Parked,No,Amp,Can’t shoot,
+46,111456,0,0,1,0,No,No,0,0,6,0,11,9,0,Successful climb,No,Speaker,Right next to speaker,
+46,113856,0,0,2,2,No,No,0,0,4,0,13,0,0,Successful climb,Yes,Speaker,Open field (next to stage),
+46,52032,0,0,1,0,Yes,Yes,0,0,7,5,6,5,0,Successful climb,Yes,Speaker,Open field (next to stage),
+46,143496,0,0,0,0,No,No,3,0,3,1,16,0,0,Parked,No,Offense (both places),Right next to speaker,Tried to climb but out of time cuz just shot
+47,38688,0,0,0,0,No,Yes,0,0,0,0,0,38,0,Parked,No,Defense,Can’t shoot,
+47,211248,0,0,0,0,No,Yes,0,0,0,2,60,16,16,Parked,No,Speaker,Right next to speaker,
+47,220416,0,0,0,0,No,Yes,0,0,0,2,19,19,0,Somewhere else,No,Speaker,Right next to speaker,
+47,56016,0,0,4,0,Yes,Yes,0,0,3,0,12,0,35,Parked,No,Speaker,Open field (next to stage),
+47,211248,0,0,0,0,No,Yes,0,0,0,3,25,10,25,Parked,No,Speaker,Right next to speaker,Was being fidgety and weird most of the match but was able to move during some parts
+48,80016,0,0,1,0,No,No,0,0,0,1,0,0,108,Parked,No,Equal amounts offensive and defensive,Right next to speaker,
+49,132168,0,0,1,3,Yes,No,1,0,5,3,17,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+49,68616,0,0,0,0,No,Yes,0,0,0,0,0,105,0,Somewhere else,No,Defense,Can’t shoot,Crazy defense
+49,77088,0,0,1,0,No,No,0,1,3,0,12,0,0,Successful climb,No,Speaker,Right next to speaker,
+49,218160,0,0,0,1,No,Yes,0,0,6,3,12,0,0,Successful climb,No,Speaker,Open field (next to stage),Got a note stuck in them and spent a little time getting it out
+50,145968,0,0,5,1,Yes,Yes,1,0,7,1,8,0,0,Failed climb,No,Offense (both places),Open field (next to stage),
+50,21408,0,0,3,1,No,Yes,1,0,6,0,16,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+50,38760,0,0,1,0,No,No,0,0,4,1,21,0,0,Successful climb,No,Speaker,Right next to speaker,
+50,227616,0,0,0,0,No,No,0,0,3,0,20,15,0,Successful climb,No,Speaker,Right next to speaker,
+50,5712,0,0,0,0,No,No,3,0,0,0,20,0,0,Successful climb,No,Amp,Can’t shoot,I think drivebase was broken they were really slow sometimes and occasionally they would move normally
+45,3840,0,0,1,2,Yes,Yes,1,0,10,2,15,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+51,213240,0,0,1,1,Yes,Yes,2,0,2,0,0,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+53,82824,0,0,2,1,No,Yes,0,0,0,0,16,0,50,Somewhere else,No,Speaker,Right next to speaker,
+53,132624,0,0,0,0,No,Yes,6,0,1,0,24,0,10,Somewhere else,No,Offense (both places),Amp,
+53,89160,0,0,1,0,No,Yes,0,0,2,0,0,0,0,Successful climb,Attempted to,but failed,Speaker,"Open field (next to stage), I kinda looked at the wrong bot for half the match so don't trust this too much. They did a bit of ferrying though"
+54,113856,0,0,4,0,No,Yes,0,0,9,1,9,0,0,Parked,Attempted to,but failed,Speaker,Amp
+54,68616,0,0,1,0,No,No,0,0,6,1,23,0,0,Parked,No,Speaker,Right next to speaker,
+54,206208,0,0,0,1,No,Yes,2,0,4,0,20,0,0,Parked,No,Offense (both places),Right next to speaker,
+55,190848,0,0,0,0,No,No,0,0,3,2,25,0,0,Successful climb,No,Speaker,Right next to speaker,
+55,218160,0,0,1,0,No,Yes,0,0,4,0,10,0,0,Parked,No,Speaker,Right next to speaker,
+55,21408,0,0,1,2,No,Yes,0,0,4,5,17,0,0,Successful climb,No,Speaker,Amp,
+1,184320,0,0,2,1,Yes,Yes,0,0,2,4,8,0,0,Successful climb,No,Speaker,Right next to speaker,
+1,63360,0,0,0,0,No,No,1,0,0,2,29,0,38,Parked,No,Amp,Right next to speaker,They're kinda shit
+1,211248,0,0,0,0,No,No,1,0,0,0,0,0,79,Somewhere else,No,Amp,Amp,They kinda were dead for 50 seconds and then did not much
+1,38760,0,0,1,1,Yes,Yes,0,0,8,1,26,0,0,Parked,No,Speaker,Right next to speaker,kinda slow driving
+1,82824,0,0,0,0,Yes,No,0,0,1,6,21,12,0,Parked,No,Speaker,Right next to speaker,
+2,52224,0,0,0,0,No,No,0,0,0,3,27,20,16,Somewhere else,No,Speaker,Open field (next to stage),
+2,46488,0,0,1,0,No,No,6,0,1,0,19,0,0,Successful climb,No,Offense (both places),Right next to speaker,Fast climb
+37,190848,0,0,1,0,No,No,0,0,6,2,19,0,0,Parked,No,Speaker,Right next to speaker,
+2,206328,0,0,0,0,No,No,0,0,1,0,32,0,0,Parked,No,Speaker,Right next to speaker,
+2,132168,0,0,4,0,Yes,Yes,0,0,5,1,18,0,0,Parked,No,Speaker,Right next to speaker,4.5 note auto
+2,206208,0,0,0,0,No,Yes,0,0,0,3,19,0,83,Somewhere else,No,Speaker,Open field (next to stage),missed three shots then died
+3,190584,0,0,0,0,No,No,0,0,2,3,24,0,0,Successful climb,No,Speaker,Right next to speaker,
+3,219840,0,0,1,0,No,Yes,0,0,2,0,0,0,73,Somewhere else,No,Speaker,Right next to speaker,
+3,56016,0,0,0,1,Yes,Yes,1,0,3,2,23,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+3,78984,0,0,3,0,Yes,Yes,3,1,5,0,15,0,0,Somewhere else,No,Offense (both places),Open field (next to stage),"should have a 5 note, but missed the pickup of two notes"
+3,63120,0,0,1,0,No,No,0,1,2,0,26,0,0,Successful climb,Yes,Offense (both places),Right next to speaker,
+4,190848,0,0,1,1,No,Yes,0,0,4,3,18,0,0,Somewhere else,No,Speaker,Right next to speaker,
+4,153696,0,0,0,0,No,Yes,0,0,2,0,20,0,0,Successful climb,No,Speaker,Right next to speaker,Had some trouble climbing but climbed last second successfully
+4,80016,0,0,0,0,No,No,0,0,0,3,16,0,0,Somewhere else,No,Speaker,Half-court,
+4,143496,0,0,3,0,No,Yes,0,0,4,2,20,0,0,Parked,No,Speaker,Right next to speaker,"might have missed one during auto, two shot at the same time and one missed"
+4,52032,0,0,2,0,Yes,Yes,0,0,4,3,0,0,0,Successful climb,Yes,Speaker,Open field (next to stage),good trap
+5,224640,0,0,0,0,No,No,0,0,1,0,25,0,80,Somewhere else,No,Speaker,Right next to speaker,
+5,227616,0,0,0,0,No,No,0,0,4,0,14,0,0,Successful climb,No,Speaker,Right next to speaker,
+5,132624,0,0,0,0,No,Yes,4,2,0,0,50,0,9,Somewhere else,No,Amp,Amp,
+5,153840,0,0,1,0,No,Yes,0,0,8,0,17,0,0,Successful climb,No,Speaker,Open field (next to stage),rly good
+6,113856,0,0,4,0,No,Yes,1,1,4,0,15,0,0,Successful climb,Yes,Offense (both places),Open field (next to stage),
+6,111456,0,0,1,0,No,Yes,1,0,0,0,20,75,0,Parked,No,Offense (both places),Right next to speaker,Intake is terrible
+6,218160,0,0,0,1,No,Yes,0,0,0,5,17,0,0,Successful climb,No,Speaker,Open field (next to stage),Cool auto intake it looks like ( note detection )
+6,77088,0,0,0,0,No,Yes,2,0,1,1,10,0,0,Successful climb,No,Offense (both places),Amp,
+6,89160,0,0,0,0,No,No,0,0,4,3,8,10,0,Successful climb,No,Speaker,Right next to speaker,Driver kept driving around like they didnt know where to go. intake wobbles when robot moves around so it might be why they missed
+6,222936,0,0,0,0,No,No,0,0,0,0,60,120,0,Parked,No,Defense,Can’t shoot,The robot tried to do defense but were really slow and jerky so all the teams easily got past. Didn’t seem like driver had control.
+7,220416,0,0,0,0,No,No,0,0,0,1,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+7,68616,0,0,2,0,Yes,Yes,0,0,4,6,15,22,0,Parked,No,Offense (both places),Open field (next to stage),shooter broke half way through the match. pretty fast cycles
+7,10680,0,0,1,0,No,No,7,0,1,0,10,0,0,Successful climb,No,Offense (both places),Right next to speaker,"Very fast and consistent, quick climb"
+7,142008,0,0,0,1,No,No,1,0,0,0,28,39,0,Somewhere else,No,Offense (both places),Right next to speaker,Intake broke entirely
+7,145968,0,0,3,2,Yes,Yes,1,0,10,1,10,0,0,Somewhere else,No,Offense (both places),Open field (next to stage),I think under bumper intake broke. They have 2nd method of intake from source so it wasn’t too bad
+7,234792,0,0,0,0,No,Yes,0,0,0,1,20,20,23,Somewhere else,No,Speaker,Right next to speaker,Is a speaker bot but cant really shoot.. kept moving back and forth throughout match
+8,219840,0,0,3,0,No,Yes,0,0,0,1,0,0,115,Somewhere else,No,Speaker,Right next to speaker,
+8,206328,0,0,0,0,No,Yes,0,0,1,0,60,0,0,Failed climb,No,Speaker,Open field (next to stage),Cannot intake at all
+8,190584,0,0,1,0,No,No,0,0,5,1,11,0,0,Successful climb,No,Speaker,Right next to speaker,
+8,38760,0,0,1,0,No,No,0,1,5,3,16,0,0,Failed climb,No,Offense (both places),Open field (next to stage),
+8,38688,0,0,0,0,No,No,1,0,0,0,20,0,31,Somewhere else,No,Amp,Amp,Dnp did not intake a single note
+8,56016,0,0,3,0,Yes,Yes,1,0,5,2,15,0,0,Failed climb,No,Offense (both places),Open field (next to stage),I think driver needs more practice took many tries when getting more at source. Left no time for climb but almost up. Note often got stuck in intake/serializer
+37,190848,0,0,3,0,No,Yes,0,0,5,2,13,5,0,Parked,No,Speaker,Open field (next to stage),They were able to still shoot while avoiding their teammate which took up a lot of space
+5,3840,0,0,4,0,Yes,Yes,1,0,8,4,10,0,0,Successful climb,No,Offense (both places),Half-court,
+9,143496,0,0,1,0,No,No,0,0,9,3,16,0,0,Somewhere else,No,Speaker,Right next to speaker,
+9,21408,0,0,3,0,No,Yes,0,2,4,2,22,0,0,Parked,No,Speaker,Right next to speaker,
+9,101304,0,0,0,0,No,No,0,0,3,1,10,0,0,Successful climb,No,Speaker,Right next to speaker,
+9,78984,0,0,1,2,No,Yes,1,0,1,0,12,0,70,Somewhere else,No,Offense (both places),Right next to speaker,
+9,82824,0,0,1,0,Yes,Yes,0,0,1,5,13,5,5,Parked,No,Speaker,Right next to speaker,Took forever to shoot so it clogged up the area for alliance members. All three robots shot at the same time in auto and one missed but unclear who it was
+9,234528,0,0,1,0,No,No,0,0,2,2,17,0,0,Somewhere else,No,Speaker,Right next to speaker,Really wobbly. Need time to stop shaking to shoot. Only intake from source.
+38,89160,0,0,0,0,No,No,3,0,2,3,18,0,0,Parked,No,Offense (both places),Right next to speaker,Pretty inconsistent
+10,184320,0,0,0,1,No,Yes,0,0,4,1,19,0,0,Failed climb,No,Speaker,Open field (next to stage),
+10,52032,0,0,1,3,Yes,Yes,0,0,6,2,8,0,0,Successful climb,Yes,Offense (both places),Right next to speaker,
+10,184320,0,0,0,1,No,Yes,0,0,3,0,34,0,0,Successful climb,No,Speaker,Right next to speaker,
+10,224640,0,0,0,0,No,No,0,0,0,0,60,5,5,Somewhere else,No,Speaker,Can’t shoot,They sorta just drove around the entire match in the middle and spent 0+ seconds trying to pick up a note despite already having one.
+10,206208,0,0,0,0,No,Yes,2,0,0,0,0,0,49,Successful climb,No,Amp,Amp,
+10,227616,0,0,0,0,No,No,0,0,4,0,16,0,0,Successful climb,No,Speaker,Right next to speaker,
+11,46488,0,0,0,0,No,Yes,2,0,1,0,0,0,44,Somewhere else,No,Offense (both places),Right next to speaker,They bumped and died then started moving again
+11,3840,0,0,1,1,Yes,Yes,3,1,4,0,0,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+11,111456,0,0,0,0,No,No,0,0,4,2,20,0,0,Successful climb,No,Speaker,Right next to speaker,
+11,52224,0,0,1,0,No,Yes,0,0,2,0,17,0,0,Somewhere else,No,Speaker,Open field (next to stage),intake wasnt rly working
+12,63120,0,0,1,0,Yes,Yes,6,0,0,0,8,0,0,Successful climb,Yes,Amp,Amp,
+12,220416,0,0,0,0,No,Yes,0,0,0,1,0,0,48,Somewhere else,No,Speaker,Right next to speaker,
+12,5712,0,0,2,2,No,Yes,0,0,0,0,0,0,96,Somewhere else,No,Speaker,Right next to speaker,dead
+13,153840,0,0,0,0,No,No,0,0,1,1,0,0,32,Failed climb,No,Speaker,Right next to speaker,
+13,234792,0,0,0,0,No,No,0,0,1,0,0,0,0,Parked,No,Defense,Right next to speaker,
+13,38688,0,0,0,0,No,Yes,1,2,0,0,0,0,0,Parked,No,Amp,Can’t shoot,They can only score amp and they are shit at that too
+13,68616,0,0,0,1,No,Yes,0,1,9,0,11,0,0,Parked,No,Offense (both places),Right next to speaker,
+13,89160,0,0,0,0,No,No,0,0,0,0,0,95,0,Parked,No,Defense,Can’t shoot,good defense
+14,113856,0,0,4,0,No,Yes,0,0,4,0,0,0,0,Successful climb,Attempted to,but failed,Speaker,"Open field (next to stage), They're pretty good"
+14,132624,0,0,0,0,No,Yes,0,0,4,0,12,0,0,Parked,No,Amp,Can’t shoot,
+14,153696,0,0,2,0,No,Yes,0,0,4,0,22,0,0,Successful climb,No,Speaker,Right next to speaker,
+14,222936,0,0,0,0,No,No,0,0,0,0,60,89,85,Parked,No,Defense,Can’t shoot,
+14,213240,0,0,0,1,No,No,0,0,1,0,0,120,0,Successful climb,No,Defense,Can’t shoot,They have a shooter but they just played defense.
+15,206328,0,0,0,0,No,No,1,1,0,0,0,0,0,Parked,No,Amp,Can’t shoot,
+15,77088,0,0,0,1,No,Yes,0,1,1,1,19,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+15,224640,0,0,0,0,No,No,0,0,0,1,27,75,0,Failed climb,No,Equal amounts offensive and defensive,Right next to speaker,
+16,227616,0,0,0,0,No,No,0,0,0,0,60,120,0,Somewhere else,No,Defense,Can’t shoot,
+16,52224,0,0,0,0,No,No,0,0,1,4,35,0,0,Somewhere else,No,Speaker,Open field (next to stage),
+16,219840,0,0,2,0,No,No,0,0,6,1,15,0,0,Somewhere else,No,Speaker,Right next to speaker,
+16,82824,0,0,0,0,No,No,0,0,0,3,15,47,0,Parked,No,Speaker,Right next to speaker,
+16,143496,0,0,2,0,No,Yes,3,0,2,1,8,3,0,Parked,No,Offense (both places),Right next to speaker,Shoots from both next to stage and right next to amp
+16,101304,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Successful climb,No,Defense,Can’t shoot,"I don’t know if they were trying to do defense in the beginning, they flipped up an arm and then took it back in. Defense wasn’t that good"
+17,63120,0,0,1,0,No,Yes,2,1,2,0,36,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+17,111456,0,0,3,0,No,Yes,0,0,2,4,21,0,0,Successful climb,No,Speaker,Right next to speaker,
+17,78984,0,0,2,1,Yes,Yes,1,0,3,1,10,0,0,Parked,No,Offense (both places),Right next to speaker,
+17,218160,0,0,0,0,No,No,0,0,1,2,17,0,0,Successful climb,No,Speaker,Open field (next to stage),
+17,46488,0,0,0,0,No,No,0,0,0,0,30,0,71,Successful climb,No,Speaker,Right next to speaker,
+17,56016,0,0,1,1,Yes,Yes,0,0,11,2,12,0,0,Somewhere else,No,Speaker,Open field (next to stage),Instead of climb they went shot another note. Shooter is nice
+18,63360,0,0,0,0,No,No,3,2,3,0,0,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+18,68616,0,0,2,0,No,Yes,0,0,6,0,18,0,0,Successful climb,No,Speaker,Open field (next to stage),
+18,5712,0,0,0,1,No,No,0,0,0,0,60,0,0,Successful climb,No,Speaker,Right next to speaker,
+18,190584,0,0,1,0,No,No,0,0,6,0,12,20,0,Successful climb,No,Speaker,Open field (next to stage),has over-bumper intake which is pretty flimsy
+18,68616,0,0,1,2,No,Yes,0,0,7,0,15,0,0,Parked,No,Speaker,Right next to speaker,
+18,80016,0,0,1,1,No,Yes,0,0,2,0,18,0,15,Parked,No,Speaker,Right next to speaker,I think intake or something broke so note was stuck towards the end
+19,234528,0,0,0,1,No,No,0,0,3,1,13,0,0,Parked,No,Speaker,Right next to speaker,
+19,113856,0,0,3,0,Yes,Yes,3,0,1,0,20,0,0,Failed climb,No,Offense (both places),Open field (next to stage),
+19,153696,0,0,1,0,No,No,0,0,5,0,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+19,113856,0,0,4,0,No,No,0,0,7,0,10,0,0,Successful climb,Yes,Speaker,Open field (next to stage),
+19,132168,0,0,1,0,Yes,Yes,3,0,2,0,14,0,0,Failed climb,No,Offense (both places),Right next to speaker,auto missed to pick up a note and mightve been broken
+26,77088,0,0,1,0,No,No,2,0,2,0,23,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+19,132624,0,0,0,0,No,Yes,0,0,0,0,16,61,0,Parked,No,Defense,Can’t shoot,Half of the time shot half of the time they ferried notes
+20,38760,0,0,1,0,Yes,Yes,0,0,5,0,25,0,0,Parked,No,Speaker,Open field (next to stage),
+20,211248,0,0,0,0,No,Yes,0,0,0,1,15,16,60,Somewhere else,No,Speaker,Right next to speaker,
+20,145968,0,0,1,2,Yes,Yes,0,0,6,0,11,0,0,Successful climb,No,Speaker,Open field (next to stage),
+20,89160,0,0,0,0,No,No,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,"All defense, but they did kinda get maneuvered around by another robot at least. And I think they were pushed cuz light maybe?"
+20,52032,0,0,2,2,Yes,Yes,0,0,5,2,10,0,0,Failed climb,No,Speaker,Open field (next to stage),
+20,213240,0,0,1,1,Yes,Yes,4,0,1,0,13,15,0,Successful climb,No,Offense (both places),Amp,More on the slow side with shooting amp
+21,77088,0,0,1,0,No,Yes,0,0,2,2,22,0,0,Successful climb,No,Speaker,Right next to speaker,
+21,184320,0,0,0,0,No,No,0,0,4,1,25,19,0,Successful climb,No,Speaker,Right next to speaker,
+21,222936,0,0,0,0,No,No,0,0,0,0,60,0,0,Parked,No,Equal amounts offensive and defensive,Can’t shoot,please put them on the do not pick list
+21,10680,0,0,2,0,No,Yes,4,1,1,1,23,0,0,Successful climb,No,Offense (both places),Open field (next to stage),not great intake
+21,153840,0,0,0,0,No,Yes,0,0,6,1,19,0,0,Successful climb,No,Speaker,Right next to speaker,
+22,111456,0,0,0,1,No,Yes,0,0,7,1,13,0,0,Somewhere else,No,Speaker,Open field (next to stage),
+22,3840,0,0,1,4,Yes,Yes,6,0,9,1,0,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+22,38688,0,0,0,0,No,Yes,0,0,0,0,0,104,0,Parked,No,Amp,Can’t shoot,
+23,63360,0,0,0,0,No,No,3,0,2,0,18,0,0,Parked,No,Offense (both places),Right next to speaker,
+23,143496,0,0,1,0,No,Yes,0,0,2,0,0,15,3,Somewhere else,No,Speaker,Right next to speaker,
+23,227616,0,0,0,0,No,No,0,0,5,0,20,0,0,Parked,No,Speaker,Right next to speaker,
+23,56016,0,0,3,1,Yes,Yes,0,0,11,0,12,0,17,Somewhere else,No,Speaker,Open field (next to stage),"fast, 4.5 piece auto"
+23,68616,0,0,0,0,Yes,Yes,2,0,2,2,15,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+24,224640,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+24,78984,0,0,1,1,Yes,Yes,3,0,3,0,0,0,0,Parked,No,Offense (both places),Right next to speaker,
+24,206208,0,0,0,0,No,Yes,0,0,4,0,21,0,0,Successful climb,No,Speaker,Right next to speaker,
+24,153696,0,0,0,0,No,No,0,0,4,1,23,20,0,Failed climb,No,Speaker,Open field (next to stage),
+25,89160,0,0,0,0,No,No,0,0,0,0,0,99,0,Parked,No,Defense,Can’t shoot,
+25,101304,0,0,0,0,No,No,0,0,1,2,16,0,0,Successful climb,No,Speaker,Right next to speaker,
+25,132168,0,0,3,0,Yes,Yes,1,0,0,3,26,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+25,145968,0,0,3,2,Yes,Yes,4,1,7,0,0,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+25,190584,0,0,1,0,No,No,0,0,7,1,20,0,0,Parked,No,Speaker,Right next to speaker,kinda slow
+13,145968,0,0,0,0,No,Yes,0,0,8,0,7,0,0,Successful climb,No,Speaker,Open field (next to stage),Very cool
+21,220416,0,0,1,0,No,Yes,0,0,0,0,7,120,0,Parked,No,Defense,Right next to speaker,It really just seemed to struggle to move
+3,213240,0,0,1,0,No,No,1,0,2,1,14,0,0,Successful climb,No,Offense (both places),Right next to speaker,Mostly did speaker shots and missed a speaker because the note broke.
+22,190848,0,0,0,0,No,No,0,0,0,3,19,41,0,Successful climb,No,Speaker,Right next to speaker,"At the start of the match it shot notes to us so we had more notes near us, then it tried to do speaker shots."
+1,234528,0,0,1,0,No,No,0,0,0,0,20,120,0,Somewhere else,No,Defense,Amp,Only shot once during auto and that’s it. Rest was it try to block off the other teams’ amp shots
+12,132168,0,0,2,0,No,Yes,0,0,6,3,11,0,0,Successful climb,No,Speaker,Right next to speaker,
+11,80016,0,0,0,0,No,No,0,0,1,3,14,0,0,Failed climb,No,Speaker,Right next to speaker,They undershot 3 times in a row
+4,101304,0,0,1,0,No,No,0,0,2,1,0,0,0,Parked,No,Speaker,Right next to speaker,
+5,5712,0,0,0,0,No,No,0,0,0,1,0,0,15,Parked,No,Speaker,Right next to speaker,Died multiple times and kinda just gave up
+15,10680,0,0,3,1,No,Yes,2,2,4,0,9,0,0,Failed climb,No,Offense (both places),Right next to speaker,Did the climb but then fell off
+14,211248,0,0,0,0,No,No,0,0,0,0,0,0,120,Somewhere else,No,Speaker,Can’t shoot,After auto it was dead for rest of the round
+23,46488,0,0,0,1,No,No,3,0,0,0,18,0,11,Somewhere else,No,Amp,Amp,
+2,21408,0,0,1,0,No,Yes,0,0,0,0,16,78,37,Successful climb,No,Offense (both places),Right next to speaker,After the first shot during auto a note got stuck inside the robot making it unable to move for quite a while.
+25,218160,0,0,0,1,No,Yes,0,0,3,3,10,0,0,Successful climb,No,Speaker,Right next to speaker,
+24,234792,0,0,0,0,No,No,0,0,0,1,13,52,0,Parked,No,Defense,Right next to speaker,Reminds me of a lost child in a Costco looking for their parents
+26,80016,0,0,1,0,No,Yes,0,0,3,1,24,0,0,Parked,No,Speaker,Right next to speaker,
+26,80016,0,0,0,1,No,Yes,0,0,3,1,46,0,0,Failed climb,No,Speaker,Right next to speaker,
+26,234528,0,0,1,0,No,No,0,0,1,2,20,0,0,Somewhere else,No,Speaker,Right next to speaker,
+26,220416,0,0,0,0,No,Yes,0,0,0,0,0,67,0,Parked,No,Speaker,Can’t shoot,Didnt shoot into speaker but shooted a lot of notes to teammates
+26,63120,0,0,2,0,No,Yes,5,0,3,0,7,0,0,Failed climb,No,Offense (both places),Open field (next to stage),Shot in open field but around amp (some might’ve been miscounted mb). some of the amp shots were slow
+26,77088,0,0,0,0,No,No,0,0,3,0,28,0,0,Successful climb,No,Speaker,Right next to speaker,
+26,113856,0,0,4,0,No,Yes,0,0,6,0,0,0,22,Somewhere else,No,Speaker,Open field (next to stage),Broke down at end 😢
+27,5712,0,0,1,0,No,Yes,6,0,0,0,19,0,0,Successful climb,Yes,Amp,Amp,
+27,5712,0,0,1,0,No,Yes,5,0,0,0,15,0,0,Successful climb,Yes,Amp,Can’t shoot,
+27,222936,0,0,0,0,No,No,0,0,0,0,0,120,0,Somewhere else,No,Defense,Can’t shoot,
+27,52032,0,0,2,0,Yes,Yes,0,0,7,3,18,0,0,Parked,No,Speaker,Open field (next to stage),
+27,184320,0,0,1,0,No,No,0,0,0,0,60,5,0,Successful climb,No,Speaker,Right next to speaker,Shot the note into auto and then i think the teleop was broken or something (robot seemed to not be moving properly so they just climbed)
+27,21408,0,0,0,4,No,No,0,0,1,2,15,0,46,Somewhere else,No,Speaker,Right next to speaker,
+27,38688,0,0,0,0,No,Yes,0,1,0,0,19,39,0,Parked,No,Amp,Can’t shoot,Defense was slow
+28,219840,0,0,3,0,No,No,0,0,1,2,18,0,0,Parked,No,Speaker,Right next to speaker,
+28,3840,0,0,5,0,Yes,Yes,3,0,7,4,12,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+28,10680,0,0,1,0,No,No,2,0,1,1,20,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+28,211248,0,0,0,0,No,No,0,0,0,2,0,0,70,Parked,No,Speaker,Right next to speaker,"When alive, they were in the everyones way and made it hard for our team to go around and missed any shots it took"
+28,52224,0,0,1,0,No,No,0,0,2,6,26,0,0,Parked,No,Speaker,Open field (next to stage),
+28,142008,0,0,0,0,No,No,0,1,0,0,0,109,0,Successful climb,No,Amp,Can’t shoot,Tried and failed amp at beginning. Switcher to defense
+29,206208,0,0,0,0,No,No,5,1,0,0,15,0,0,Failed climb,No,Amp,Amp,
+29,111456,0,0,1,0,Yes,Yes,0,0,3,2,17,0,0,Successful climb,No,Speaker,Right next to speaker,
+29,38760,0,0,1,0,No,Yes,0,0,5,0,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+29,153840,0,0,0,2,Yes,Yes,0,0,11,0,15,0,0,Parked,No,Speaker,Right next to speaker,
+29,82824,0,0,0,1,Yes,Yes,0,0,0,6,15,0,0,Parked,No,Speaker,Right next to speaker,Every single shot was short
+29,213240,0,0,1,0,Yes,Yes,0,4,0,0,11,24,0,Successful climb,No,Offense (both places),Amp,incredibly questionable defense (they were sorta just slightly moving back and forth in the red area)
+30,218160,0,0,0,1,No,Yes,0,0,5,2,11,0,0,Successful climb,No,Speaker,Right next to speaker,
+30,227616,0,0,0,0,No,No,0,0,1,0,60,0,0,Successful climb,No,Speaker,Right next to speaker,Intake is terrible
+30,63360,0,0,0,0,No,No,3,0,0,0,20,0,45,Somewhere else,No,Amp,Amp,
+30,190584,0,0,2,0,No,Yes,0,0,7,1,17,0,0,Parked,No,Speaker,Right next to speaker,"Tried climb, but deployed it under stage so stuck in park"
+30,153696,0,0,1,0,No,No,0,0,7,0,13,0,0,Successful climb,No,Speaker,Open field (next to stage),
+30,153696,0,0,1,0,No,Yes,0,0,6,0,8,10,0,Successful climb,No,Speaker,Right next to speaker,pretty good ar scoring but the bot itself is slow
+31,190848,0,0,0,0,No,No,0,0,4,1,18,0,0,Failed climb,No,Speaker,Right next to speaker,
+31,234528,0,0,1,0,No,Yes,0,0,0,2,29,0,84,Somewhere else,No,Speaker,Open field (next to stage),
+31,89160,0,0,0,1,No,Yes,0,0,0,2,18,0,0,Successful climb,No,Speaker,Right next to speaker,
+31,63120,0,0,3,2,Yes,Yes,5,0,2,1,17,0,0,Successful climb,Attempted to,but failed,Offense (both places),Open field (next to stage)
+31,68616,0,0,0,2,No,Yes,0,1,5,7,6,11,0,Somewhere else,No,Speaker,Right next to speaker,Miss rate very high
+31,56016,0,0,0,3,Yes,Yes,0,0,9,0,15,0,0,Successful climb,No,Speaker,Open field (next to stage),
+32,206328,0,0,0,0,No,No,0,0,0,0,0,108,9,Parked,No,Defense,Can’t shoot,
+32,234792,0,0,0,0,No,Yes,0,0,0,1,9,113,0,Somewhere else,No,Defense,Right next to speaker,
+32,52032,0,0,1,0,Yes,Yes,1,0,0,2,0,0,0,Somewhere else,No,Offense (both places),Open field (next to stage),
+32,46488,0,0,1,0,No,Yes,1,0,4,2,0,0,0,Parked,No,Offense (both places),Open field (next to stage),
+32,222936,0,0,0,0,No,No,0,0,0,0,0,0,0,Parked,No,Equal amounts offensive and defensive,Can’t shoot,
+32,220416,0,0,0,0,No,Yes,0,0,0,0,0,0,0,Successful climb,No,Speaker,Can’t shoot,note ferrying the whole match
+33,132624,0,0,0,0,No,Yes,0,0,3,0,0,0,0,Parked,No,Amp,Can’t shoot,Got stuck at 1:30 remaining in the chane
+33,80016,0,0,0,1,No,No,0,0,1,1,0,0,22,Somewhere else,No,Speaker,Right next to speaker,
+33,219840,0,0,2,0,No,Yes,0,0,0,0,0,0,0,Somewhere else,No,Speaker,Can’t shoot,they were stuck on the opposite chain the entire match
+33,224640,0,0,0,1,No,Yes,0,0,0,0,29,120,0,Successful climb,No,Defense,Right next to speaker,All defense
+33,184320,0,0,0,1,No,No,0,0,2,0,27,76,0,Successful climb,No,Speaker,Right next to speaker,
+33,145968,0,0,3,1,Yes,Yes,3,0,7,1,0,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+34,3840,0,0,1,1,No,Yes,0,0,4,6,0,0,0,Successful climb,No,Speaker,Open field (next to stage),
+34,113856,0,0,3,0,No,Yes,0,0,0,0,19,120,0,Successful climb,Attempted to,but failed,Defense,"Right next to speaker, All defense"
+34,142008,0,0,0,1,No,No,0,0,0,2,0,0,71,Failed climb,No,Speaker,Right next to speaker,the robot was falling apart on the field
+34,5712,0,0,0,1,No,Yes,0,5,0,1,12,4,0,Successful climb,Yes,Offense (both places),Amp,
+34,10680,0,0,0,0,No,No,3,0,2,0,14,0,0,Failed climb,No,Offense (both places),Right next to speaker,
+34,82824,0,0,0,1,No,Yes,0,0,2,3,15,0,0,Somewhere else,No,Speaker,Right next to speaker,
+35,52224,0,0,1,0,No,No,1,0,0,0,0,108,0,Parked,No,Speaker,Open field (next to stage),
+35,211248,0,0,0,0,No,Yes,0,0,1,1,0,66,0,Parked,No,Equal amounts offensive and defensive,Right next to speaker,"can only source intake I think, driver not good"
+35,38760,0,0,1,0,No,No,0,0,6,2,0,0,0,Successful climb,No,Speaker,Right next to speaker,
+35,38688,0,0,0,0,No,Yes,2,0,3,1,15,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+36,153840,0,0,0,0,No,No,0,0,6,1,12,0,0,Failed climb,No,Speaker,Right next to speaker,
+36,63360,0,0,0,0,No,No,2,0,0,2,22,0,0,Parked,No,Offense (both places),Right next to speaker,
+36,78984,0,0,4,0,Yes,Yes,4,0,5,0,18,0,0,Parked,No,Offense (both places),Right next to speaker,
+36,21408,0,0,1,0,No,Yes,3,0,2,0,0,0,20,Parked,No,Offense (both places),Right next to speaker,
+37,52032,0,0,2,2,Yes,Yes,6,0,0,2,12,0,0,Successful climb,Yes,Amp,Open field (next to stage),Kept shooting from stage and hitting hood of speaker instead of making
+37,190584,0,0,1,0,No,No,0,0,5,0,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+39,101304,0,0,0,0,No,No,0,0,2,0,17,11,0,Parked,No,Speaker,Open field (next to stage),
+39,132624,0,0,0,0,No,Yes,2,0,0,0,17,49,0,Parked,No,Amp,Can’t shoot,
+39,56016,0,0,1,3,Yes,Yes,0,0,9,0,10,0,0,Parked,No,Speaker,Right next to speaker,
+40,111456,0,0,2,0,No,Yes,0,0,3,2,36,0,0,Parked,No,Speaker,Right next to speaker,
+40,82824,0,0,1,1,No,No,0,0,4,1,50,0,0,Parked,No,Speaker,Right next to speaker,
+40,63120,0,0,1,0,No,No,0,0,2,1,16,0,0,Successful climb,No,Speaker,Right next to speaker,
+40,38688,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+40,184320,0,0,0,0,No,No,0,0,0,0,0,0,0,Successful climb,No,Offense (both places),Can’t shoot,Could barely move and the.my climbed really early
+40,234792,0,0,0,0,No,Yes,0,0,0,1,20,26,45,Somewhere else,No,Speaker,Right next to speaker,defended somewhat occasionally but at a few points where just blocking their teammates ans then died
+40,63120,0,0,0,0,No,Yes,3,1,2,1,21,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+42,38760,0,0,0,0,No,No,1,0,1,2,19,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+42,80016,0,0,1,0,No,No,2,0,0,0,45,0,0,Parked,No,Offense (both places),Right next to speaker,
+43,77088,0,0,1,0,No,No,0,1,0,1,28,84,0,Parked,No,Offense (both places),Right next to speaker,
+43,213240,0,0,0,0,Yes,Yes,3,0,0,0,15,31,0,Successful climb,No,Amp,Can’t shoot,
+43,5712,0,0,0,1,No,No,3,0,0,0,22,0,3,Successful climb,Yes,Offense (both places),Amp,the robot shot notes back to alliance robots so they can score
+44,46488,0,0,1,0,No,No,6,0,1,0,21,0,0,Somewhere else,No,Offense (both places),Right next to speaker,was going to climb but the chain was swinging too much so they couldn't climb in time
+45,63120,0,0,0,2,Yes,Yes,3,0,0,1,11,0,0,Failed climb,No,Offense (both places),Right next to speaker,
+45,101304,0,0,1,0,No,No,0,0,3,2,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+46,52032,0,0,1,0,Yes,Yes,1,0,7,5,12,0,0,Successful climb,Yes,Speaker,Open field (next to stage),
+47,153840,0,0,1,0,No,No,0,0,7,3,13,0,0,Somewhere else,No,Speaker,Right next to speaker,
+48,206328,0,0,0,0,No,No,0,0,0,0,0,90,0,Parked,No,Speaker,Right next to speaker,Couldn't shoot the note out
+48,190848,0,0,0,1,No,No,0,0,3,1,13,0,0,Successful climb,No,Speaker,Right next to speaker,
+48,52224,0,0,0,0,No,No,0,0,5,0,18,0,0,Parked,No,Speaker,Right next to speaker,
+48,132624,0,0,0,0,No,Yes,1,0,0,0,30,30,0,Failed climb,No,Amp,Amp,Defended against their own team
+48,78984,0,0,5,0,Yes,Yes,6,1,4,1,10,0,0,Parked,No,Offense (both places),Open field (next to stage),Shot note instead of climb
+49,142008,0,0,0,1,No,No,1,0,0,0,60,0,0,Failed climb,No,Offense (both places),Amp,"cycle took over 60s, really wobbly structure, team in front was moving around the whole time so auto may be incorrect but i kind of doubt it"
+50,234792,0,0,0,0,No,No,0,0,2,1,19,0,0,Parked,No,Speaker,Right next to speaker,
+51,224640,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Successful climb,No,Defense,Can’t shoot,
+51,101304,0,0,1,0,No,Yes,3,0,4,1,19,0,0,Failed climb,No,Offense (both places),Open field (next to stage),
+51,184320,0,0,0,0,No,No,3,0,2,0,15,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+52,111456,0,0,1,0,No,No,0,0,5,0,23,0,0,Parked,No,Offense (both places),Open field (next to stage),piece got stuck
+52,190584,0,0,0,0,No,Yes,0,0,4,2,10,0,0,Successful climb,No,Speaker,Right next to speaker,
+52,56016,0,0,4,0,Yes,Yes,0,0,9,1,15,0,0,Successful climb,No,Speaker,Open field (next to stage),"Either 3.5 or 4.5 note in auto, kinda lost track"
+52,153840,0,0,2,1,No,Yes,0,0,2,4,20,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+54,80016,0,0,1,0,No,No,2,1,2,0,16,0,0,Parked,No,Offense (both places),Open field (next to stage),
+54,222936,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Somewhere else,No,Defense,Can’t shoot,Can't tell if it's trying to play defense or if the bot's broken
+54,52224,0,0,0,0,No,No,0,0,1,4,13,0,14,Somewhere else,No,Speaker,Right next to speaker,Bad accuracy
+51,46488,0,0,0,1,No,No,0,0,7,2,6,0,0,Successful climb,No,Speaker,Right next to speaker,
+44,219840,0,0,4,0,No,Yes,0,0,5,0,8,9,0,Somewhere else,No,Speaker,Right next to speaker,
+41,206328,0,0,0,0,No,Yes,0,1,0,1,14,0,0,Parked,No,Defense,Amp,Freed 5461 after it got stuck in blues stage
+53,63360,0,0,0,0,No,No,1,1,0,0,30,0,0,Parked,No,Amp,Amp,
+35,143496,0,0,0,2,No,Yes,2,0,1,2,13,0,0,Failed climb,No,Offense (both places),Right next to speaker,
+43,52224,0,0,0,0,No,No,2,0,3,2,0,0,11,Parked,No,Offense (both places),Right next to speaker,I see why it had a 0-6-0 streak
+52,153696,0,0,1,0,No,No,2,2,1,0,12,0,0,Successful climb,No,Offense (both places),Amp,
+55,5712,0,0,0,0,No,No,6,0,0,1,10,0,0,Successful climb,No,Amp,Amp,
+42,142008,0,0,0,1,No,No,2,2,0,0,10,0,0,Successful climb,No,Amp,Amp,A bit slow and misses amps
+45,89160,0,0,0,0,No,No,0,0,3,2,13,0,0,Successful climb,No,Speaker,Right next to speaker,Does shoot notes to get closer to the team
+55,211248,0,0,0,0,No,Yes,0,0,0,0,0,0,0,Successful climb,No,Defense,Can’t shoot,"Tries to intake from source, fails, and then plays source defense"
+56,206328,0,0,0,0,Yes,Yes,0,0,1,1,31,30,0,Parked,No,Speaker,Right next to speaker,
+56,38688,0,0,0,1,No,No,0,0,0,0,0,120,0,Parked,No,Defense,Right next to speaker,
+56,234528,0,0,0,1,No,No,0,0,2,1,15,0,0,Somewhere else,No,Speaker,Right next to speaker,
+56,145968,0,0,2,1,Yes,Yes,2,0,6,0,11,0,0,Parked,No,Offense (both places),Open field (next to stage),
+56,213240,1,0,0,0,Yes,Yes,0,0,0,0,0,114,0,Successful climb,No,Speaker,Right next to speaker,
+56,206328,0,0,0,0,Yes,Yes,0,0,1,1,31,55,0,Parked,No,Speaker,Amp,
+43,145968,0,0,2,1,Yes,Yes,5,0,4,2,12,0,0,Successful climb,No,Offense (both places),Open field (next to stage),Would have gotten 4 or 5 piece auto but didn't pick up notes
+45,184320,0,0,0,0,No,No,0,0,0,0,0,0,108,Somewhere else,No,Equal amounts offensive and defensive,Can’t shoot,Literally the whole match they didn't move and stood at their starting position.
+54,219840,0,0,1,0,No,No,0,0,0,0,0,0,44,Somewhere else,No,Speaker,Right next to speaker,Had trouble moving during the match
+51,143496,0,0,0,1,No,Yes,0,0,4,4,18,0,0,Successful climb,No,Speaker,Right next to speaker,
+42,68616,0,0,1,0,No,No,0,0,6,2,19,0,0,Somewhere else,No,Speaker,Right next to speaker,Also shoot some notes to alliance partners
+55,234792,0,0,0,0,No,Yes,0,0,0,0,0,112,0,Somewhere else,No,Defense,Can’t shoot,
+41,211248,0,0,0,0,No,No,0,0,0,1,0,89,0,Parked,No,Defense,Right next to speaker,
+35,77088,0,0,1,0,No,Yes,0,0,5,0,14,0,0,Successful climb,No,Speaker,Right next to speaker,
+53,10680,0,0,2,0,No,Yes,0,0,6,0,12,0,0,Successful climb,No,Speaker,Right next to speaker,
+56,142008,0,0,0,1,No,No,0,0,0,0,9,0,0,Parked,No,Speaker,Can’t shoot,"Didnt shoot to speaker, but Shooted like 5 noyes to alliance partners at the speakers"
+44,222936,0,0,0,0,No,Yes,0,0,0,0,0,111,0,Parked,No,Defense,Can’t shoot,
+52,52032,0,0,0,2,Yes,Yes,0,0,7,2,12,0,0,Parked,No,Speaker,Open field (next to stage),Also shot some notes to alliance robots at speaker
+57,77088,0,0,0,1,No,Yes,2,0,2,0,22,0,0,Failed climb,No,Offense (both places),Amp,
+57,78984,0,0,5,0,Yes,Yes,5,0,3,2,12,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+57,220416,0,0,0,0,No,Yes,0,0,0,2,20,31,0,Successful climb,No,Speaker,Right next to speaker,The defense was really bad and the bot was slow
+57,3840,0,0,2,0,Yes,Yes,6,0,7,0,11,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+57,227616,0,0,0,0,No,No,0,0,2,0,19,0,0,Parked,No,Speaker,Right next to speaker,"I think broke near end since weren’t really driving forward in a straight line, instead side to side"
+58,10680,0,0,3,1,No,Yes,7,0,1,0,15,0,0,Successful climb,No,Offense (both places),Amp,
+58,143496,0,0,1,0,No,No,0,0,0,0,0,120,0,Successful climb,No,Defense,Right next to speaker,
+58,153696,0,0,0,0,No,No,0,0,4,0,26,0,0,Parked,No,Speaker,Right next to speaker,
+58,63120,0,0,1,0,No,No,5,0,1,0,15,0,0,Successful climb,Yes,Offense (both places),Right next to speaker,
+58,132168,0,0,0,1,Yes,Yes,0,0,0,3,10,5,0,Parked,No,Speaker,Right next to speaker,kept depositing notes near speaker since their shooter couldnt make it in and i think their auto broke. not good defense
+58,153840,0,0,3,1,No,No,0,0,6,4,12,0,0,Successful climb,No,Speaker,Right next to speaker,
+59,224640,0,0,1,0,No,No,0,0,0,0,60,0,120,Successful climb,No,Speaker,Right next to speaker,???? Their shooter/intake broke literally just ran around the field the whole time ???????? Bruh what is this broken robot
+59,89160,0,0,0,0,No,No,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+59,111456,0,0,3,0,No,Yes,0,0,5,3,22,0,0,Successful climb,No,Speaker,Right next to speaker,slow
+59,46488,0,0,1,0,No,No,1,0,6,0,16,0,0,Parked,No,Offense (both places),Right next to speaker,Intake a little slow sometimes
+59,101304,0,0,0,1,No,Yes,0,0,6,0,12,0,0,Successful climb,No,Speaker,Open field (next to stage),on the slower side
+59,219840,0,0,1,0,No,No,0,0,3,0,15,0,0,Parked,No,Speaker,Right next to speaker,
+60,234792,0,0,0,0,No,No,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+60,190584,0,0,2,0,No,Yes,0,0,8,0,18,0,0,Successful climb,No,Speaker,Amp,Slow
+60,190848,0,0,2,0,No,No,0,0,2,2,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+60,63360,0,0,0,0,No,No,0,0,2,5,17,0,0,Parked,No,Speaker,Right next to speaker,
+60,132624,0,0,0,0,No,Yes,5,0,0,0,12,0,0,Parked,No,Amp,Amp,has both ground and source intake but for source they have to line up to get it so it takes up time
+60,52224,0,0,0,0,No,No,1,2,0,1,0,0,0,Somewhere else,No,Offense (both places),Right next to speaker,
+61,82824,0,0,3,0,Yes,Yes,0,0,2,2,16,0,0,Parked,No,Speaker,Right next to speaker,
+61,218160,0,0,1,0,No,Yes,0,0,7,0,15,0,0,Somewhere else,No,Offense (both places),Amp,
+61,5712,0,0,3,0,No,Yes,0,0,0,0,0,113,0,Successful climb,No,Defense,Can’t shoot,intake broke
+61,68616,0,0,1,0,No,Yes,0,0,6,0,0,0,40,Somewhere else,No,Speaker,Right next to speaker,"died , driver isn't the best (not the greatest at avoiding defense and stuff like that) but not bad"
+62,222936,0,0,0,0,Yes,Yes,0,0,0,0,0,79,0,Parked,No,Defense,Can’t shoot,they’re pretty shit at defense. small and just get shoved out of of the way
+62,211248,0,0,0,0,No,Yes,0,0,1,1,0,26,0,Parked,No,Speaker,Right next to speaker,
+62,220416,0,0,0,0,No,Yes,0,1,2,1,0,0,0,Successful climb,No,Speaker,Open field (next to stage),
+62,206208,0,0,1,0,No,Yes,0,0,3,0,17,0,0,Parked,No,Speaker,Right next to speaker,
+62,234528,0,0,0,1,No,Yes,0,0,3,3,20,0,0,Somewhere else,No,Speaker,Right next to speaker,"source intake only, can't go under stage"
+63,52032,0,0,1,1,Yes,Yes,0,0,3,10,9,0,0,Successful climb,No,Speaker,Open field (next to stage),all “missed” teleport shots were their attempts to shoot pieces to team members. ~40% chance of a note going outside of the field
+63,145968,0,0,5,0,Yes,Yes,3,0,8,1,0,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+63,113856,0,0,3,1,No,Yes,1,1,4,1,20,0,0,Successful climb,No,Offense (both places),Amp,
+63,21408,0,0,1,0,No,No,1,0,3,1,13,5,0,Successful climb,No,Offense (both places),Right next to speaker,Got in the way occasionally but ran smoothly
+64,56016,0,0,3,0,Yes,Yes,0,0,7,0,14,0,0,Successful climb,No,Speaker,Open field (next to stage),
+64,227616,0,0,0,0,No,No,0,0,1,0,18,0,0,Parked,No,Speaker,Right next to speaker,
+64,184320,0,0,0,1,No,No,0,0,1,0,27,0,60,Failed climb,No,Speaker,Right next to speaker,
+64,80016,0,0,1,0,No,No,1,0,1,1,0,37,0,Successful climb,No,Offense (both places),Right next to speaker,"can't really see climb because all three climbed, hooks seemed to be in the chain though"
+64,132168,0,0,4,0,No,Yes,0,0,2,4,29,0,0,Somewhere else,No,Offense (both places),Right next to speaker,"their shooters sucks, oscillating up and down with every bump. this makes it luck if it goes in the speaker or not"
+65,63360,0,0,0,0,Yes,Yes,2,0,1,1,0,0,0,Parked,No,Offense (both places),Open field (next to stage),
+65,132624,0,0,1,0,No,Yes,5,0,0,0,13,0,0,Somewhere else,No,Amp,Can’t shoot,
+65,46488,0,0,1,0,No,Yes,0,0,4,1,19,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+65,77088,0,0,0,0,No,Yes,0,0,5,0,23,0,0,Somewhere else,No,Speaker,Right next to speaker,"their shooter cannot move, so they need a very specific angle to shoot"
+65,142008,0,0,0,0,No,No,2,0,1,1,30,0,0,Successful climb,No,Offense (both places),Right next to speaker,climbed at like 50
+66,153840,0,0,2,1,No,Yes,0,0,10,1,14,0,0,Parked,No,Speaker,Right next to speaker,
+66,143496,0,0,1,1,No,No,0,0,0,0,15,0,59,Successful climb,No,Offense (both places),Right next to speaker,Bruh dead half the time and only fed notes
+66,218160,0,0,1,0,No,Yes,0,0,9,1,12,0,0,Parked,No,Speaker,Right next to speaker,
+66,52224,0,0,0,1,No,No,0,0,3,3,18,0,0,Parked,No,Speaker,Right next to speaker,
+67,10680,0,0,2,2,No,Yes,1,0,5,2,24,0,0,Successful climb,No,Offense (both places),Right next to speaker,super slow intake
+67,5712,0,0,0,0,Yes,No,3,0,1,1,20,0,0,Parked,No,Offense (both places),Open field (next to stage),Really fast amp; epic bump auto
+67,206208,0,0,0,0,No,No,0,0,0,0,0,100,0,Parked,No,Speaker,Right next to speaker,Offense but did defense idk why
+67,111456,0,0,1,1,No,Yes,0,0,8,0,12,0,0,Parked,No,Speaker,Right next to speaker,
+67,211248,0,0,0,0,No,Yes,0,0,0,0,0,120,0,Parked,No,Defense,Can’t shoot,
+66,234792,0,0,0,0,No,No,0,0,0,0,0,120,0,Somewhere else,No,Defense,Can’t shoot,
+68,213240,0,0,1,0,Yes,Yes,2,1,0,1,20,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+68,190848,0,0,0,0,No,No,0,0,4,1,20,0,0,Successful climb,No,Speaker,Right next to speaker,
+68,3840,0,0,5,0,Yes,Yes,5,1,4,2,13,0,0,Failed climb,No,Offense (both places),Open field (next to stage),Epic
+68,190584,0,0,0,1,No,No,0,0,5,1,14,0,0,Parked,No,Speaker,Right next to speaker,
+68,220416,0,0,0,0,No,No,0,0,4,1,30,0,0,Successful climb,No,Speaker,Right next to speaker,
+69,68616,0,0,0,0,No,No,0,0,0,0,0,100,0,Somewhere else,No,Defense,Can’t shoot,
+69,52032,0,0,2,0,Yes,Yes,0,0,5,0,20,0,0,Parked,No,Speaker,Amp,terrible at avoiding defense
+69,219840,0,0,1,0,No,No,0,0,2,0,0,53,0,Somewhere else,No,Speaker,Right next to speaker,
+69,132168,0,0,1,1,Yes,Yes,1,0,0,4,11,0,0,Failed climb,No,Offense (both places),Right next to speaker,Bruh this robot is actually so trash the intake oscillates infinitely
+69,78984,0,0,3,1,Yes,Yes,2,0,3,4,12,0,0,Somewhere else,No,Speaker,Right next to speaker,
+69,38688,0,0,0,0,No,No,0,0,0,0,60,120,0,Somewhere else,No,Defense,Can’t shoot,defended subwoofer but got a bunch of penalties
+70,184320,0,0,1,0,No,No,0,0,3,2,15,0,0,Successful climb,No,Speaker,Right next to speaker,
+70,21408,0,0,1,0,No,Yes,3,0,1,0,12,0,0,Successful climb,Attempted to,but failed,Offense (both places),Right next to speaker
+70,206328,0,0,0,0,No,Yes,0,0,0,1,0,98,0,Somewhere else,No,Defense,Right next to speaker,
+70,77088,0,0,1,0,No,Yes,0,0,3,1,17,10,0,Successful climb,No,Speaker,Right next to speaker,really tall
+70,142008,0,0,0,0,No,No,3,0,1,0,22,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+70,153696,0,0,1,0,No,No,0,0,4,0,14,0,0,Failed climb,No,Speaker,Right next to speaker,
+70,21408,0,0,2,0,No,Yes,3,1,0,0,0,0,0,Successful climb,Attempted to,but failed,Offense (both places),"Right next to speaker, Their intake sucks, struggles to pick up game pieces"
+71,222936,0,0,0,0,Yes,Yes,0,0,0,0,0,114,0,Parked,No,Defense,Can’t shoot,defense bot but like not good at it 💀
+71,63120,0,0,0,1,Yes,Yes,5,1,2,0,17,0,0,Failed climb,Attempted to,but failed,Offense (both places),Amp
+71,38760,0,0,1,1,No,Yes,0,0,9,0,18,0,0,Successful climb,No,Speaker,Right next to speaker,
+72,52224,0,0,0,0,No,No,0,0,1,3,22,0,0,Parked,No,Speaker,Right next to speaker,
+72,56016,0,0,4,0,Yes,Yes,1,0,9,0,19,0,0,Parked,No,Speaker,Open field (next to stage),
+72,5712,0,0,1,0,No,No,4,0,1,0,19,0,0,Parked,Attempted to,but failed,Offense (both places),Amp
+72,89160,0,0,1,1,No,Yes,1,1,0,1,0,0,0,Successful climb,Attempted to,but failed,Offense (both places),"Robot was getting blocked, making it hard for anyone to shoot this round"
+73,220416,0,0,0,0,No,Yes,0,0,4,0,0,0,0,Successful climb,No,Speaker,Right next to speaker,
+73,190584,0,0,0,0,No,No,0,0,7,1,17,0,0,Successful climb,No,Offense (both places),Right next to speaker,
+73,213240,0,0,2,0,Yes,Yes,0,0,3,1,0,0,0,Successful climb,No,Speaker,Right next to speaker,
+73,132624,0,0,0,0,No,Yes,3,0,3,1,29,0,0,Somewhere else,No,Offense (both places),Open field (next to stage),human player amplified at random times when there were no chances of shooting
+74,38688,0,0,0,0,No,No,0,0,0,0,0,120,0,Successful climb,No,Defense,Can’t shoot,
+74,10680,0,0,2,1,No,Yes,4,1,1,0,14,0,37,Somewhere else,No,Offense (both places),Amp,
+74,82824,0,0,0,0,No,No,0,0,0,0,0,90,0,Parked,No,Equal amounts offensive and defensive,Can’t shoot,Robot died 10 seconds into the match
+74,206208,0,0,0,0,No,Yes,3,0,3,0,33,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+75,77088,0,0,0,0,No,Yes,0,0,4,0,15,22,0,Successful climb,No,Speaker,Right next to speaker,
+75,113856,0,0,4,0,No,Yes,1,0,6,0,19,0,0,Successful climb,Attempted to,but failed,Offense (both places),Open field (next to stage)
+75,206328,0,0,0,0,Yes,Yes,0,0,2,0,0,91,0,Parked,No,Speaker,Right next to speaker,
+75,46488,0,0,1,0,No,Yes,6,0,0,0,18,0,0,Failed climb,No,Offense (both places),Right next to speaker,
+76,234792,0,0,0,0,No,No,0,0,0,1,60,0,0,Parked,No,Speaker,Right next to speaker,Bro could not shoot or intake
+76,219840,0,0,0,0,No,No,0,0,0,0,0,120,0,Somewhere else,No,Defense,Can’t shoot,
+76,132168,0,0,1,3,Yes,Yes,0,0,1,3,0,0,0,Successful climb,No,Speaker,Right next to speaker,
+76,184320,0,0,0,1,No,No,0,0,4,1,16,0,0,Successful climb,No,Speaker,Right next to speaker,
+76,38760,0,0,2,0,No,Yes,0,0,7,0,16,0,0,Parked,No,Speaker,Right next to speaker,
+76,190848,0,0,1,0,No,No,0,0,6,0,23,0,0,Successful climb,No,Speaker,Right next to speaker,
+77,63360,0,0,0,0,No,Yes,1,0,0,1,36,0,0,Parked,No,Offense (both places),Right next to speaker,
+77,3840,0,0,2,0,Yes,Yes,5,0,2,3,11,0,0,Successful climb,No,Offense (both places),Open field (next to stage),
+77,153696,0,0,0,0,No,No,0,0,0,2,18,0,0,Parked,No,Offense (both places),Right next to speaker,
+78,227616,0,0,0,0,No,No,0,0,2,0,15,90,0,Successful climb,No,Speaker,Right next to speaker,
+78,222936,0,0,0,0,No,Yes,0,0,0,0,0,73,0,Parked,No,Equal amounts offensive and defensive,Can’t shoot,Really bad defense
+78,80016,0,0,1,0,No,No,0,0,2,0,23,0,0,Somewhere else,No,Speaker,Right next to speaker,
+77,234528,0,0,0,1,No,No,0,0,0,0,0,120,0,Somewhere else,No,Defense,Can’t shoot,
+71,227616,0,0,0,0,No,No,0,0,1,0,11,6,0,Successful climb,No,Speaker,Right next to speaker,
+63,63120,0,0,0,2,Yes,Yes,5,1,1,0,13,0,0,Successful climb,Attempted to,but failed,Amp,Amp
+65,38760,0,0,1,1,No,Yes,0,0,8,1,10,0,0,Failed climb,No,Speaker,Right next to speaker,The auto is not reliable
+64,38688,0,0,0,0,No,Yes,1,1,0,0,11,0,0,Parked,No,Amp,Amp,I think their feeder is broken and they tried using scotch tape to fix it. But it is broken
+73,111456,0,0,1,1,No,Yes,1,0,5,0,8,0,0,Somewhere else,No,Speaker,Right next to speaker,
+75,101304,0,0,0,1,No,Yes,0,0,1,1,7,0,0,Successful climb,No,Defense,Right next to speaker,
+72,224640,0,0,0,0,Yes,Yes,0,0,0,0,10,38,0,Successful climb,No,Defense,Open field (next to stage),During auto it went to the other side. Also it was taxiing notes
+74,52032,0,0,1,1,Yes,Yes,0,0,5,4,8,0,0,Successful climb,Yes,Speaker,Open field (next to stage),
+61,213240,0,0,0,0,No,No,4,1,0,0,12,0,0,Successful climb,No,Amp,Amp,
+62,78984,0,0,4,0,Yes,Yes,5,0,7,1,5,0,0,Somewhere else,No,Offense (both places),Right next to speaker,Very smooth driving and a balanced focus on amp and speaker
