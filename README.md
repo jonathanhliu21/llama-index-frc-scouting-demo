@@ -1,10 +1,24 @@
-# FRC Picklist Helper
+# FIRST Robotics Competition Picklist Helper
 
 This application uses [LlamaIndex](https://llamaindex.ai) to interpret robot scouting data in a CSV file, allowing users to analyze the performance of a certain robot using the power of ChatGPT. The analysis is then saved as a LlamaIndex document, which can be used to compare the performance of two teams or to generate a picklist.
 
 Note that the regional competitions and team numbers shown in this demo and in the examples folder are obfuscated.
 
 ![Screenshot 2024-07-10 at 11 09 35 AM](https://github.com/jonathanhliu21/llama-index-frc-scouting-demo/assets/81734282/a2ff7a3b-8f33-47a0-8801-389f7f1e3de4)
+
+## Context
+
+FIRST Robotics Competition (FRC) is a high school robotics competition. Teams have six weeks to build a robot and have the opportunity to compete at regional or district events. In each event, robots compete in qualification matches, where teams of 3 are randomly chosen to compete against each other. Following the qual matches, each of the top teams pick two other teams to compete in the playoff tournament together in an alliance to win the competition. Because of this, it is important for teams to know the performance of other robots so they can make informed decisions when selecting a team.
+
+More info on FRC can be found [here](https://www.firstinspires.org/sites/default/files/uploads/resource_library/first-robotics-competition-overview.pdf).
+
+During qualification matches, those who are not on the drive team or pit crew (i.e. those who are not actively operating the robot) usually scout, or observe, the robots on the field. They answer questions about how each robot performs on the field, such as how many points they score or how good their driver is. These questions can be saved in a spreadsheet and exported to CSV. Below is a screenshot of a sample scouting form for the 2024 FRC game *CRESCENDO<sup>SM</sup>* presented by Haas.
+
+![IMG_5429 Medium](https://github.com/jonathanhliu21/llama-index-frc-scouting-demo/assets/81734282/ca27f169-f8ab-4cbf-b7bc-8977e4b9431f)
+
+This web app is useful in speeding up the process for analyzing the performance of a certain team using the power of LLMs and RAG over scouting observation CSV files. The LLM can also assist with creating a picklist, a ranking of teams to pick for an alliance during the playoffs.
+
+Users should treat this application as an assistant and should not fully rely on it when creating a picklist or analyzing a robot, as the LLM could hallucinate or may not have the full context of a team (e.g. their reputation from previous years).
 
 ## Usage
 
